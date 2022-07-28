@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Habiba\source\repos\gitrepo\Source.cpp(4,1): error C2144: syntax error: 'int' should be preceded by ';'
+C:\Users\Habiba\source\repos\gitrepo\Source.cpp(5,6): error C2143: syntax error: missing ';' before '<<'
+C:\Users\Habiba\source\repos\gitrepo\Source.cpp(5,6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
