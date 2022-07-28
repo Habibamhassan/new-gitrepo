@@ -1,5 +1,7 @@
 #include <iostream>
 using namespace std;
 int main()
-int x = 5, y=7;
-cout << x << y<< endl;
+{
+	int x = 5, y = 7;
+	cout << x << y << endl;
+}
