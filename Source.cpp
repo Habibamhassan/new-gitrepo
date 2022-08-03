@@ -4,4 +4,5 @@ int main()
 {
 	int x = 5, y = 7;
 	cout << x << y << endl;
+	cout << x;
 }
